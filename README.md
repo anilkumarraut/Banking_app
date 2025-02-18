@@ -113,7 +113,7 @@ Some useful code snippets from this project:
 - **`BankInfo.tsx`**
 - **`Copy.tsx`**
 - **`PaymentTransferForm.tsx`**
-- **`BankDropdown.tsx`** *(Missing from the video tutorial)*
+- **`BankDropdown.tsx`** 
 - **`Pagination.tsx`**
 - **`Category.tsx`**
 
